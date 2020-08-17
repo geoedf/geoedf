@@ -21,16 +21,24 @@ GeoEDF workflows encoded in YAML syntax.
 GeoEDF Framework
 ----------------
 
+A guide to the key components of the GeoEDF framework package that help with executing data connectors and 
+processors as workflow jobs in any execution environment.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   framework
 
 GeoEDF Engine
 -------------
 
+A guide to the GeoEDF workflow engine that transforms *logical* GeoEDF workflows into jobs for various execution 
+environments.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   engine
 
 Data Connectors
 ---------------
