@@ -58,6 +58,18 @@ Data Processors
    data-processors
    processors-list
 
+Development and Deployment
+----------
+
+A guide to the tools available for developing new connectors and processors, and the deployment of 
+GeoEDF in a cyberinfrastructure environment. 
+
+.. toctree::
+   :maxdepth: 1
+
+   development
+   deployment
+
 Indices and tables
 ==================
 
