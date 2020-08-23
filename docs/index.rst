@@ -25,7 +25,7 @@ A guide to the key components of the GeoEDF framework package that help with exe
 processors as workflow jobs in any execution environment.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    framework
 
