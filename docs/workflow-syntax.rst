@@ -23,9 +23,9 @@ the NASA DAAC using a standard FTP or HTTP request. Such a plugin would internal
 direct download URL for the datasets based on the provided arguments. Generality dictates that we 
 instead develop an *input* plugin that accepts a NASA DAAC FTP or HTTP direct download URL and 
 downloads the data at that URL. The direct download URL can be constructed based on the specific 
-NASA dataset (MODIS, SMAP, etc.) being downloaded[#f1]_. 
+NASA dataset (MODIS, SMAP, etc.) being downloaded [#f1]_. 
 
-GeoEDF filter plugins are used to construct such attribute bindings for other plugins[#f2]_ whenever 
+GeoEDF filter plugins are used to construct such attribute bindings for other plugins [#f2]_ whenever 
 non-trivial temporal, spatial, or some other processing is required for the construction. For 
 instance, a filter plugin may receive as input, an ESRI shapefile representing a watershed's 
 boundary and return the set of MODIS grids that intersect this watershed. These grid identifiers 
