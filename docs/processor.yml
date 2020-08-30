@@ -1,0 +1,4 @@
+HDFEOSShapefileMask:
+  hdffile: $1
+  shapefile: /home/ubuntu/data/subs1_projected_171936.shp
+  datasets: [Lai]
