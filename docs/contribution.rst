@@ -16,7 +16,7 @@ The contribution process involves a pair of pull requests:
    or ``output-plugins`` or ``processors-list`` file to add the name of the document you just created.
 4. Submit a PR with your changes.
 
-.. _connector: https://github.com/geoedf/connectors
-.. _processor: https://github.com/geoedf/processors
+.. _connectors: https://github.com/geoedf/connectors
+.. _processors: https://github.com/geoedf/processors
 .. _documentation: https://github.com/geoedf/geoedf
 
