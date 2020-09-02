@@ -46,16 +46,14 @@ Data Connectors
 .. toctree::
    :maxdepth: 3
 
-   data-connectors
    connectors-list
 
 Data Processors
 ---------------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
-   data-processors
    processors-list
 
 Development and Deployment

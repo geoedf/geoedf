@@ -29,4 +29,7 @@ Notes
 
 2. The connector uses simple HTML parsing to determine the list of files matching the wildcard entry. It is assumed that 
    navigating to the base URL i.e. ``https://e4ftl01.cr.usgs.gov/MOTA/MCD15A3H.006/2002.07.16`` above, returns a simple 
-   HTML listing of ``<a href=...></a>`` elements.  
+   HTML listing of ``<a href=...></a>`` elements. 
+
+3. When using this plugin in a workflow, leave the password binding blank to avoid saving sensitive information to the 
+   workflow file. The workflow engine will prompt the user to enter a value securely when executing the workflow.
