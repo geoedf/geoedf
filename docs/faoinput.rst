@@ -5,9 +5,9 @@ FAOInput
 
    Download data from the U.N. FAOSTAT database given a list of product names (keys)
 
-   .. py:attribute:: dataset_names (list,required)
+   .. py:attribute:: dataset_codes (list,required)
 
-   This is a list of dataset names drawn from the master list in the `U.N. FAO dataset index`_.
+   This is a list of dataset codes drawn from the master list in the `U.N. FAO dataset index`_.
 
 Notes
 -----

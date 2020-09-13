@@ -5,3 +5,5 @@ List of Data Processors
    :maxdepth: 1
    
    hdfeosshapefilemask
+   simpledataclean
+   csv2har
