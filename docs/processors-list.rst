@@ -7,3 +7,4 @@ List of Data Processors
    hdfeosshapefilemask
    simpledataclean
    csv2har
+   wqpmap
