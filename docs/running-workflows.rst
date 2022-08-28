@@ -13,7 +13,7 @@ using the following Python code from inside a Jupyter notebook.
    %use pegasus-5.0.1
    %use geoedfengine-1.81
   
-  First, we import the GeoEDF workflow engine module via HUBzero's *use* library. Next, we import the necessary libraries from 
+First, we import the GeoEDF workflow engine module via HUBzero's *use* library. Next, we import the necessary libraries from 
 GeoEDF:
 
 .. code-block:: python
