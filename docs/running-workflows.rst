@@ -8,7 +8,7 @@ create your workflow YML file in the Jupyter filesystem. You can then execute an
 using the following Python code from inside a Jupyter notebook.
 
 .. code-block:: python
-   :caption: Import the GeoEDF workflow engine module
+   
    import hublib.use
    %use pegasus-5.0.1
    %use geoedfengine-1.81
@@ -17,13 +17,14 @@ First, we import the GeoEDF workflow engine module via HUBzero's *use* library. 
 GeoEDF:
 
 .. code-block:: python
-   :caption: Import the GeoEDF WorkflowEngine library
+
    from geoedfengine.WorkflowEngine import WorkflowEngine
    
 Finally, execute the desired workflow by specifying the workflow YML file path and a unique workflow name. The workflow name 
 can then be used to monitor the status of the workflow.
 
 .. code-block:: python
+   
    WorkflowEngine.execute_workflow(<file-path>,'<workflow-name>')
    WorkflowEngine.workflow_status('<workflow-name>')
    
