@@ -7,3 +7,5 @@ Input Plugins
    nasainput
    faoinput
    wqpinput
+   damfiminput
+   era5input

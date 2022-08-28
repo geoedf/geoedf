@@ -13,7 +13,7 @@ The contribution process involves a pair of pull requests:
 3. Fork the GeoEDF `documentation`_ repository and add a new RestructuredText document describing
    your plugin, following the existing examples in there. In order to have your entry listed in the
    top-level list of connector or processor plugins, also edit the ``input-plugins`` or ``filter-plugins``
-   or ``output-plugins`` or ``processors-list`` file to add the name of the document you just created.
+   or ``processors-list`` file to add the name of the document you just created.
 4. Submit a PR with your changes.
 
 .. _connectors: https://github.com/geoedf/connectors

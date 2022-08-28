@@ -26,7 +26,7 @@ Testing
 -------
 
 You can test your plugins in GeoEDF's `development environment container`_. Follow the instructions
-in the ``sample-geoedf-wf/GeoEDF.ipynb`` Jupyter notebook which will walk you through the process of
+in the ``geoedf/RK_02_EarthCube_GeoEDF_Demo.ipynb`` Jupyter notebook which will walk you through the process of
 building a Singularity container image of your plugin and then using it in a GeoEDF workflow. You can
 use any previously published connector or processor plugin in your testing. A list of these plugins can
 be found in this `documentation`_.
@@ -35,5 +35,5 @@ be found in this `documentation`_.
 .. _connector: https://github.com/geoedf/connectors
 .. _processor: https://github.com/geoedf/processors
 .. _HPC Container Maker: https://github.com/NVIDIA/hpc-container-maker
-.. _development environment container: https://github.com/geoedf/pegasus-workflow-development-environment
+.. _development environment container: https://github.com/geoedf/EarthCube2021
 .. _documentation: https://geoedf.readthedocs.io/en/latest/

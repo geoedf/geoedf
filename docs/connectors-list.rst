@@ -6,5 +6,3 @@ List of Data Connectors
 
    input-plugins
    filter-plugins
-   output-plugins
-

@@ -6,3 +6,4 @@ Filter Plugins
 
    pathfilter
    datetimefilter
+   damfilter
