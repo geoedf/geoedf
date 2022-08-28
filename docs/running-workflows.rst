@@ -20,13 +20,18 @@ GeoEDF:
 
    from geoedfengine.WorkflowEngine import WorkflowEngine
    
-Finally, execute the desired workflow by specifying the workflow YML file path and a unique workflow name. The workflow name 
-can then be used to monitor the status of the workflow.
+Finally, execute the desired workflow by specifying the workflow YML file path and a unique workflow name. 
 
 .. code-block:: python
    
    WorkflowEngine.execute_workflow(<file-path>,'<workflow-name>')
-   WorkflowEngine.workflow_status('<workflow-name>')
-   
+
 The *execute_workflow* method will print out the location of workflow outputs and any log files that the user can use to debug 
 workflow errors. 
+
+While the workflow is running, the *workflow_status* method can be used to monitor its status. This method will print out the 
+workflow stage that is currently being executed.
+
+.. code-block:: python
+
+   WorkflowEngine.workflow_status('<workflow-name>')
