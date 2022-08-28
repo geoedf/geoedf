@@ -56,6 +56,16 @@ Data Processors
 
    processors-list
 
+Running Workflows
+---------------
+
+A guide to running workflows in the `MyGeoHub <https://mygeohub.org>`_ science gateway.
+
+.. toctree::
+   :maxdepth: 1
+
+   running-workflows
+
 Development and Deployment
 ----------
 
