@@ -1,3 +1,6 @@
+Input Plugins
+=============
+
 .. toctree::
    :maxdepth: 3
 

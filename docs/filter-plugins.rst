@@ -1,3 +1,6 @@
+Filter Plugins
+=============
+
 .. toctree::
    :maxdepth: 2
 
