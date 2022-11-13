@@ -1,9 +1,13 @@
-Filter Plugins
-==============
-
 .. toctree::
    :maxdepth: 2
 
-   pathfilter
-   datetimefilter
+   conusstatefilter
    damfilter
+   datetimefilter
+   dischargedatafilter
+   gagelocfilter
+   georangefilter
+   noaastationfilter
+   opendapfilter
+   pathfilter
+   shpextentfilter

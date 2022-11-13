@@ -1,11 +1,13 @@
-Input Plugins
-=============
-
 .. toctree::
    :maxdepth: 3
 
-   nasainput
-   faoinput
-   wqpinput
+   cuahsisubsetterinput
    damfiminput
    era5input
+   faoinput
+   gagefeatureinput
+   ghcndinput
+   httpinput
+   nasainput
+   nwisstatinput
+   wqpinput
