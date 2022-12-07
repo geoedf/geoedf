@@ -2,7 +2,7 @@ List of Data Processors
 =======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    cliprasterbymask
    csv2har
